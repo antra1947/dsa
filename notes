@@ -1,0 +1,8 @@
+//bubble sort
+// 1 2 3 9 5
+// 1 2 3 5 9- iteration 1
+
+//selection sort
+// 5 4 3 2 1 
+// 1 4 3 2 5-//point 5 and find the smallest element then swap 
+// 1 2 3 4 5
